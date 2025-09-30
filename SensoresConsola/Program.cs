@@ -156,6 +156,7 @@ class Program
                 break;
             default:
                 Console.WriteLine("Opción no válida. Intente de nuevo.");
+                esperar();
                 break;
         }
     }
