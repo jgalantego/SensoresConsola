@@ -1,0 +1,14 @@
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\SensoresConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\SensoresConsola.AssemblyInfoInputs.cache
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\SensoresConsola.AssemblyInfo.cs
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\SensoresConsola.csproj.CoreCompileInputs.cache
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\bin\Debug\net9.0\SensoresConsola.exe
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\bin\Debug\net9.0\SensoresConsola.deps.json
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\bin\Debug\net9.0\SensoresConsola.runtimeconfig.json
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\bin\Debug\net9.0\SensoresConsola.dll
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\bin\Debug\net9.0\SensoresConsola.pdb
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\SensoresConsola.dll
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\refint\SensoresConsola.dll
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\SensoresConsola.pdb
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\SensoresConsola.genruntimeconfig.cache
+D:\PROYECTOS_TECNOLOGIAS_MOVILES\SensoresConsola\SensoresConsola\obj\Debug\net9.0\ref\SensoresConsola.dll
